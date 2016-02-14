@@ -1,0 +1,33 @@
+21
+0 12
+102 12
+204 12
+306 12
+408 12
+510 12
+612 12
+
+0 24
+102 24
+204 24
+306 24
+408 24
+510 24
+612 24
+
+0 36
+102 36
+204 36
+306 36
+408 36
+510 36
+612 36
+
+
+The first value should be the desired number of brs.
+Then specify ((first value) X 2) values, which should
+be the x,y coordinates of the brs.
+
+
+
+
